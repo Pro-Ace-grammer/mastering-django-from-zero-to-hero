@@ -1,4 +1,4 @@
-# 🐍 Module 01: Django Introduction and Setup
+# Module 01: Django Introduction and Setup
 
 Welcome to the first module of **Mastering Django: From Zero to Hero**!  
 This module is all about getting started with Django: understanding what it is, why we use it, its architecture, and how to set up your first Django project.
@@ -16,7 +16,7 @@ This module is all about getting started with Django: understanding what it is, 
 
 ---
 
-## 📝 **Definitions & Key Concepts**
+## **Definitions & Key Concepts**
 
 ### Django
 A high-level, open-source Python web framework that promotes rapid development and clean, pragmatic design.  
@@ -50,7 +50,7 @@ Built by developers → for developers.
 
 For an in-depth explanation, read:
 - [`Notes/intro.md`](./Notes/intro.md) → detailed Markdown notes  
-- [`Notes/intro.pdf`](./Notes/intro.pdf) → same notes in nicely formatted PDF (easy to print/download)
+- [`Notes/intro.pdf`](./Notes/Module1-Introduction-setup.pdf) → same notes in nicely formatted PDF (easy to print/download)
 
 ---
 
