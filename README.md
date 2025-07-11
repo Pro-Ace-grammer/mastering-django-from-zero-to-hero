@@ -12,7 +12,7 @@ This repo contains:
 
 | #  | Module | Description | Link |
 |--:|--------|-------------|------|
-| 01 | Django Introduction and Setup | What & why, installing Django, first project | [link](./Module-01-Introduction-Setup/) |
+| 01 | Django Introduction and Setup | What & why, installing Django, first project | [link](./Module-01-Introduction-&-Setup/) |
 | 02 | URL Routing and Views | URLs, path(), include(), function-based views | _coming soon_ |
 | 03 | Templates and Static Files | Template inheritance, static files, Bootstrap | _coming soon_ |
 | 04 | Models and ORM | Defining models, migrations, admin | _coming soon_ |

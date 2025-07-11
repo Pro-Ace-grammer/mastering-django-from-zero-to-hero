@@ -1,0 +1,11 @@
+Module-01-Introduction-Setup/
+├── README.md                 ← main documentation for the module (definitions, summary, topics)
+├── Notes/
+│   ├── intro.md
+│   └── intro.pdf             ← exported nicely formatted notes
+├── Projects/
+│   ├── myproject1/
+│   ├── myproject2/
+│   ├── blog_project/
+│   └── amazon_project/
+└── Exercises.md
