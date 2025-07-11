@@ -50,7 +50,7 @@ Built by developers → for developers.
 
 For an in-depth explanation, read:
 - [`Notes/intro.md`](./Notes/intro.md) → detailed Markdown notes  
-- [`Notes/intro.pdf`](./Notes/Module1-Introduction-setup.pdf) → same notes in nicely formatted PDF (easy to print/download)
+- [`Notes/intro.pdf`](./Notes/Module1-Introduction-&-setup.pdf) → same notes in nicely formatted PDF (easy to print/download)
 
 ---
 
