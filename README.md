@@ -8,7 +8,7 @@ This repo contains:
 
 ---
 
-## 🧭 **Curriculum Overview**
+## 🧭 **Overview**
 
 | #  | Module | Description | Link |
 |--:|--------|-------------|------|
